@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessWorkflowActivities", "NumberGuessWorkflowActivities\NumberGuessWorkflowActivities.csproj", "{E41FA93C-561A-420A-9A7C-0D110CC6A6F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessWorkflowHost", "NumberGuessWorkflowHost\NumberGuessWorkflowHost.csproj", "{828EBA2B-F57A-4A07-8A11-5B4291D1D551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E41FA93C-561A-420A-9A7C-0D110CC6A6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41FA93C-561A-420A-9A7C-0D110CC6A6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41FA93C-561A-420A-9A7C-0D110CC6A6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41FA93C-561A-420A-9A7C-0D110CC6A6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828EBA2B-F57A-4A07-8A11-5B4291D1D551}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{828EBA2B-F57A-4A07-8A11-5B4291D1D551}.Debug|Any CPU.Build.0 = Debug|x86
+		{828EBA2B-F57A-4A07-8A11-5B4291D1D551}.Release|Any CPU.ActiveCfg = Release|x86
+		{828EBA2B-F57A-4A07-8A11-5B4291D1D551}.Release|Any CPU.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {612FF79A-4A00-4D16-8316-8F3E83607DCF}
+	EndGlobalSection
+EndGlobal
